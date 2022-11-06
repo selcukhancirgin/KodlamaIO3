@@ -1,0 +1,7 @@
+C:\Users\selcu\Desktop\Kodlama.io\GamerProject\GamerProject\bin\Debug\GamerProject.exe.config
+C:\Users\selcu\Desktop\Kodlama.io\GamerProject\GamerProject\bin\Debug\GamerProject.exe
+C:\Users\selcu\Desktop\Kodlama.io\GamerProject\GamerProject\bin\Debug\GamerProject.pdb
+C:\Users\selcu\Desktop\Kodlama.io\GamerProject\GamerProject\obj\Debug\GamerProject.csproj.AssemblyReference.cache
+C:\Users\selcu\Desktop\Kodlama.io\GamerProject\GamerProject\obj\Debug\GamerProject.csproj.CoreCompileInputs.cache
+C:\Users\selcu\Desktop\Kodlama.io\GamerProject\GamerProject\obj\Debug\GamerProject.exe
+C:\Users\selcu\Desktop\Kodlama.io\GamerProject\GamerProject\obj\Debug\GamerProject.pdb
